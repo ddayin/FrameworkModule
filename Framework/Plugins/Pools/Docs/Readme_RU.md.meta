@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 068bf60b8c96f4f4eb498ab3df244e2b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231438
+  packageName: Pools
+  packageVersion: 1.1.2
+  assetPath: Assets/Modules/Submodules/Pools/Docs/Readme_RU.md
+  uploadId: 543069

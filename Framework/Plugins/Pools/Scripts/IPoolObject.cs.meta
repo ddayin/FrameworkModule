@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1fb42c5c566091b46b699269b4cfce6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231438
+  packageName: Pools
+  packageVersion: 1.1.2
+  assetPath: Assets/Modules/Submodules/Pools/Scripts/IPoolObject.cs
+  uploadId: 543069

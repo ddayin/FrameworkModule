@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 733f4e1ff483611408f4a8d4fc9202ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -1
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231438
+  packageName: Pools
+  packageVersion: 1.1.2
+  assetPath: Assets/Modules/Submodules/Pools/Scripts/PoolManager.cs
+  uploadId: 543069
